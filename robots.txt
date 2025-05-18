@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://samo06-web.github.io/generos-cine/sitemap.xml
