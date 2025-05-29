@@ -62,12 +62,12 @@ ul {
 }
 
 footer {
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(255, 255, 255, 0.05);
   color: #555;
   text-align: center;
   padding: 1rem;
   margin-top: 2rem;
-  box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.05);
 }
 
 .imagen-genero {
